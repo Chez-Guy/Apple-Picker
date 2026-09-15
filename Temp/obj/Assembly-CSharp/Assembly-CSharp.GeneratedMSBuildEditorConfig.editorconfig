@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = 
-build_property.ProjectDir = /home/jack/Documents/UnityProjects/Apple-Picker/
+build_property.ProjectDir = /home/jack/Documents/Unity/Apple-Picker/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

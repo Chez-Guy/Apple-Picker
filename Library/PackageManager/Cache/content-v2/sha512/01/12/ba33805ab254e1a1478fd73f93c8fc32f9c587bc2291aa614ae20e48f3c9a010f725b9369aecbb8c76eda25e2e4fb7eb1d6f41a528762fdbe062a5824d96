@@ -1,0 +1,1 @@
+{"status":"Valid","reason":"Signature is ok","isLegacy":false,"attestation":{"version":1,"format":"archive","integrity":"sha256-vXa10NZl8lSg6RDHNUcu+nvQnPVnGOM4Wl72ZxVV9MQ=","packageName":"com.unity.services.cloud-build","packageVersion":"2.0.8","publishingChannel":"unity","entitlementKeys":[],"artifactType":"upmPackage"}}

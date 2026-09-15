@@ -74,6 +74,7 @@
         "markdown": false,
         "scminput": false
     },
-    "csharp.referencesCodeLens.enabled": false,
-    "dotnet.defaultSolution": "Apple-Picker.slnx"
+    "dotnet.defaultSolution": "Apple-Picker.slnx",
+    "dotnet.codeLens.enableReferencesCodeLens": false,
+    "chat.disableAIFeatures": false
 }
